@@ -1,4 +1,4 @@
 # ImageDetector
 
 # Requirements
-![alt text](Img\Requirements.png)
+![alt text](Img/Requirements.png)
